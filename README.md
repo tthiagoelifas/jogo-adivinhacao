@@ -21,3 +21,9 @@ onde será mostrado qual foi o número adivinhado e quantas tentativas foram fei
 
 ![preview](./assets/preview.png)
 
+
+## Site do Projeto
+
+
+[Link do Projeto](https://tthiagoelifas.github.io/jogo-adivinhacao/)
+
